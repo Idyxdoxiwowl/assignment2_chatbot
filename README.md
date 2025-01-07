@@ -96,7 +96,8 @@ Llama Chatbot with File Support is a powerful Streamlit-based application that a
     
     OK
     ```
-    
+![Screenshot](images/1.png.jpg)
+![Screenshot](images/2.jpg)
 
 #### 1. `setUp`
 
