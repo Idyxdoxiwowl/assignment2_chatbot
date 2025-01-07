@@ -64,17 +64,19 @@ Llama Chatbot with File Support is a powerful Streamlit-based application that a
     ```
     The quick brown fox jumps over the lazy dog.
     ```
-    
+
 
 ### Ask Questions
 
 - **Input:** "What does the fox do?"
 - **Bot Response:** "The fox jumps over the lazy dog."
+      ![Screenshot](images/ask.png)
 
 ### Search
 
 - **Search Query:** "fox"
 - **Results:** "The quick brown fox jumps over the lazy dog."
+      ![Screenshot](images/search.png)
 
 ## Test
 
